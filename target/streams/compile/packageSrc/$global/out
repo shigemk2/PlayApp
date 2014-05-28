@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /Users/shige/projects/PlayApp/target/scala-2.10/playapp_2.10-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/shige/projects/PlayApp/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /Users/shige/projects/PlayApp/conf/routes[0m
+[0m[[0mdebug[0m] [0m	controllers/Application.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/shige/projects/PlayApp/app/controllers/Application.java[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
